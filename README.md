@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del modulo 2
+Este proyecto es una prueba de como crear un reopositorio 
